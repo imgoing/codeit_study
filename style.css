@@ -1,0 +1,18 @@
+h1 {
+    color: lime;
+    text-align: center;
+}
+h2 {
+    text-align: right;
+    color:  hotpink;
+
+}
+h3 {
+    text-align: right;
+    color: blue;
+}
+
+p i {
+    font-size: 64px;
+    color: green;
+}
